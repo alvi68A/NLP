@@ -32,7 +32,7 @@ y_train = train.iloc[:,0]
 x_val=val.iloc[:,1]
 y_val=val.iloc[:,0]
 
-x_test=pd.DataFrame(test.iloc[:,1])
+x_test=test.iloc[:,1]
 y_test=test.iloc[:,0]
 
 
