@@ -126,7 +126,11 @@ val_dataloader= DataLoader(
         )
 
 test_data = TensorDataset(test_seq, test_mask, test_y)
-
+test_dataloader= DataLoader(
+            val_data,
+            batch_size=batch_size,
+            num_workers=0
+        )
 
 #Defining epochs and calculating total steps
 epochs = 6
