@@ -16,7 +16,7 @@ from transformers import AdamW, get_linear_schedule_with_warmup
 
 #Setting the device and activating GPU
 device = torch.device('cuda:0')
-df = pd.read_csv('sample_data/cleaned.csv')
+df = pd.read_csv('cleaned.csv')
 
 
 #Dividing dataset
