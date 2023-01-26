@@ -23,3 +23,10 @@ Test performance: (0.9153749476330122)
      m avg          0.89      0.87      0.88      2387
      w avg          0.91      0.92      0.91      2387
 
+
+# Trying the model
+If you want to try the model:
+
+  * first run main.py
+  * let the model train
+  * run test.py with your own data
