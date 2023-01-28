@@ -33,4 +33,4 @@ If you want to try the model:
 
 
 # Additional model: languageDetector
-english and finish language detector, which achieved 99,5% accuracy over the testing dataset
+english - finnish language detector, which achieved 99,5% accuracy over the testing dataset
