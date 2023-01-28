@@ -30,3 +30,7 @@ If you want to try the model:
   * first run main.py
   * let the model train
   * run test.py with your own data
+
+
+# Additional model: languageDetector
+english and finish language detector, which achieved 99,5% accuracy over the testing dataset
